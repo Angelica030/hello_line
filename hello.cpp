@@ -6,6 +6,7 @@ int main()
     a=1;
     b=2;
     cout<<a+b<<endl;
+    cout<<"creat a new branch"<<endl;
     string str="Alice";
     cout<<str<<endl;
     cout<<"hello world!";
